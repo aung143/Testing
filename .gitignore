@@ -1,0 +1,13 @@
+bin
+Migrations
+.vscode
+obj
+*.db
+.history
+Migrations/*
+Config
+Config/*
+appsettings.json
+.vs
+appsettings.json
+Library
